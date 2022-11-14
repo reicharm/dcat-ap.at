@@ -1,3 +1,3 @@
-# dcat-ap.at
+# DCAT-AP.at
 
 Testproject
